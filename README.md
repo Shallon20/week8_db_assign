@@ -37,7 +37,7 @@ The goal is to demonstrate the use of **well-structured tables**, **constraints*
 - **UNIQUE**  
 - **ENUM** 
 
-## ▶️ How to Run
+## How to Run
 1. Open MySQL:
 ```bash
   mysql -u root -p
