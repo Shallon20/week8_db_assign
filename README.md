@@ -18,7 +18,7 @@ The goal is to demonstrate the use of **well-structured tables**, **constraints*
 - **addresses**   
 - **Relationship** - One user can have Many addresses.
 
-### . Catalog
+### 2. Catalog
 - **products** - items sold.  
 - **categories** - hierarchical categories (self-referenced with `parent_id`).  
 - **product_categories** - join table for many-to-many between products and categories.  
